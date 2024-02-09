@@ -1,1 +1,1 @@
-# LambdaBates
+# LambdaBayes
